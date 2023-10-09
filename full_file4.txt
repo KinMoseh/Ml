@@ -1,0 +1,51 @@
+,Authors,Dates,Publications
+0,"Pay, M. L.",9 Jan 2023,An Extended Plant Circadian Clock Model for Characterising Flowering Time under Different Light Quality Conditions
+1,"Christensen, J.",25 Feb 2023,Challenges and prospects of climate change impact assessment on mangrove environments through mathematical models
+2,"He, F.",7 Feb 2023,Diabetic Retinopathy Detection Using Transfer and Reinforcement Learning with Effective Image Preprocessing and Data Augmentation Techniques
+3,"Roden, L.",Mar 2023,Entropy‐based lamarckian quantum‐behaved particle swarm optimization for flexible ligand docking
+4,"Fanous, M.",15 Feb 2023,Extracting the Evolutionary Backbone of Scientific Domains: The Semantic Main Path Network Approach Based on Citation Context Analysis
+5,"Eden, J.",19 Jan 2023,Gene Regulatory Network Inference through Link Prediction using Graph Neural Network
+6,"Daneshkhah, A.",19 Jan 2023,Kernel-based Nonlinear Manifold Learning for EEG Functional Connectivity Analysis with Application to Alzheimer's Disease
+7,"Tariq, M.",26 Feb 2023,Not Born of Woman: Gendered Robots
+8,"Palade, V.",16 Feb 2023,PoseNormNet: Identity-preserved Posture Normalization of 3D Body Scans in Arbitrary Postures
+9,"Ma, Y.",10 Jan 2023,Unidirectional Migration of Populations with Allee Effect
+10,"Palade, V.",22 Jan 2023,XDLL: Explained Deep Learning LiDAR-Based Localization and Mapping Method for Self-Driving Vehicles
+11,"Jiang, X.",Aug 2022,A community energy management system for smart microgrids
+12,"Ganeshamoorthy, S.",18 Oct 2022,A Hybrid Linear Iterative Clustering and Bayes Classification-Based GrabCut Segmentation Scheme for Dynamic Detection of Cervical Cancer
+13,"Roden, L.",26 Apr 2022,Allocating Medical Resources (vaccine) to Control a Pandemic
+14,"Klepl, D.",15 Apr 2022,An Agent-Based Optimisation Approach for Vehicle Routing Problem with Unique Vehicle Location and Depot
+15,"He, F.",1 Sep 2022,An Effective Swarm Intelligence Optimization Algorithm for Flexible Ligand Docking
+16,"Gunawardena, S. R. A. S.",4 May 2022,An improved Gaussian distribution based quantum-behaved particle swarm optimization algorithm for engineering shape design problems
+17,"He, F.",Jan 2022,An integrated framework for diagnosing process faults with incomplete features
+18,"Shah, H.",23 Nov 2022,An SMT solver for non-linear real arithmetic inside maple
+19,"Hu, P.",6 Jul 2022,An SMT solver for non-linear real arithmetic inside Maple
+20,"Sadeghimanesh, A.",6 Jan 2022,Application of Amazon Web Services within teaching & learning at Coventry University Group
+21,"Palade, V.",3 May 2022,Artificial Intelligence in Cars: How Close Yet Far Are We from Fully Autonomous Vehicles?
+22,"Nixon, J. D.",4 Aug 2022,Assessing Risks in Dairy Supply Chain Systems: A System Dynamics Approach
+23,"Gaura, E.",8 Sep 2022,Bispectrum-based Cross-frequency Functional Connectivity: Classification of Alzheimer's disease
+24,"Halford, A.",21 Jan 2022,Brain Tumor Classification Using a Combination of Variational Autoencoders and Generative Adversarial Networks
+25,"Palade, V.",May 2022,Cell site analysis; Changes to networks with time
+26,"Ajao-Olarinoye, M.",1 Mar 2022,Characterising Alzheimers Disease with EEG-based Energy Landscape Analysis
+27,"Al Bazi, A.",31 Jan 2022,"Clogs and Shawls: Mormons, Moorlands, and the Search for Zion"
+28,"Palade, V.",Oct 2022,Comparative Graph-based Summarization of Scientific Papers Guided by Comparative Citations
+29,"Palade, V.",Jan 2022,Comparing the Behaviour of Two Topic-Modelling Algorithms in COVID-19 Vaccination Tweets
+30,"Palade, V.",2022,Contextualised Segment-Wise Citation Function Classification
+31,"Palade, V.",Apr 2022,Convolution neural networks for pothole detection of critical road infrastructure
+32,"Sadeghimanesh, A.",Sep 2022,Data-driven dynamical modelling of a pathogen-infected plant gene regulatory network: A comparative analysis
+33,"England, M.",Jan 2022,Detection of sleep apnea using Machine learning algorithms based on ECG Signals: A comprehensive systematic review
+34,"Sadeghimanesh, A.",1 Mar 2022,Differential radial basis function network for sequence modelling
+35,"England, M.",Feb 2022,Edge-Enhancement DenseNet for X-ray Fluoroscopy Image Denoising in Cardiac Electrophysiology Procedures
+36,"Palade, V.",6 Sep 2022,EEG-based Graph Neural Network Classification of Alzheimer's Disease: An Empirical Evaluation of Functional Connectivity Methods
+37,"Deo, A.",5 May 2022,Efficacy of COVID-19 vaccines by race and ethnicity
+38,"Azizsafaei, M.",10 Jan 2022,Examining Type 1 Diabetes Mathematical Models Using Experimental Data
+39,"Daneshkhah, A.",1 Apr 2022,Exploiting Domain Structures in Heuristic Algorithms for the Set Covering Problem: A Literature Review
+40,"Klepl, D.",Nov 2022,Exploring dynamical properties of a Type 1 diabetes model using sensitivity approaches
+41,"He, F.",10 Mar 2022,"Fast, detailed, accurate simulation of a thermal car-cabin using machine-learning"
+42,"Palade, V.",6 Jan 2022,Feedback and Engagement on an Introductory Programming Module
+43,"Tart, M. S.",2 Nov 2022,Framework for Generating Integrable Expressions
+44,"Klepl, D.",Jul 2022,From Theory to Practice: A review of co-design methods for humanitarian energy ecosystems
+45,"He, F.",15 Oct 2022,Gaussian Process Emulation of Spatio-temporal Outputs of a 2D Inland Flood Model
+46,"Halford, A.",14 Apr 2022,Impact Evaluation of Solar Photovoltaic Electrification: Indigenous Community Case Study in Brazilian Amazon
+47,"Jiang, X.",1 Sep 2022,Incorporating forecasting and peer-to-peer negotiation frameworks into a distributed model predictive control approach for meshed electric networks
+48,"Daneshkhah, A.",11 Aug 2022,Kac-Rice formulas and the number of solutions of parametrized systems of polynomial equations
+49,"Jiang, X.",25 Nov 2022,Levelwise construction of a single cylindrical algebraic cell
